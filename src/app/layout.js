@@ -11,7 +11,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <h1>
-          <Link href="/">Mi Blog NextJS</Link>
+          <Link href="/">React vs. NextJS - Part 1: NextJS</Link>
         </h1>
         {children}
       </body>
